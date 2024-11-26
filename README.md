@@ -1,4 +1,5 @@
 # Project-Function-Frontend
+Utilized the starter template provided by Metacrafters and added an additional function for the project requirements.
 
 # Starter Next/Hardhat Project
 
@@ -11,3 +12,13 @@ After cloning the github, you will want to do the following to get the code runn
 5. Back in the first terminal, type npm run dev to launch the front-end.
 
 After this, the project will be running on your localhost. Typically at http://localhost:3000/
+
+## Authors
+
+Rylan Torres  
+[@202111443@fit.edu.ph]
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
