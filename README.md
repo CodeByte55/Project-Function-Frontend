@@ -1,5 +1,5 @@
 # Project-Function-Frontend
-Utilized the starter template provided by Metacrafters and added an additional function for the project requirements.
+Utilized the starter template provided by Metacrafters and modified the functions for the project requirements.
 
 # Starter Next/Hardhat Project
 
